@@ -1,0 +1,5 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/mnt/Active/Projects/Personal/discord-bot-aleister'
+deno install --allow-read --allow-write --allow-env --allow-net --allow-run --no-check -f https://deno.land/x/deploy/deployctl.ts
+make: Leaving directory '/mnt/Active/Projects/Personal/discord-bot-aleister'
+ 

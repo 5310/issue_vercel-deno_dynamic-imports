@@ -1,0 +1,413 @@
+make all --print-data-base --no-builtin-variables --no-builtin-rules --question
+make: *** No rule to make target 'all'.  Stop.
+ 
+# GNU Make 4.3
+# Built for x86_64-pc-linux-gnu
+# Copyright (C) 1988-2020 Free Software Foundation, Inc.
+# License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+# This is free software: you are free to change and redistribute it.
+# There is NO WARRANTY, to the extent permitted by law.
+
+# Make data base, printed on Fri Aug 27 16:56:44 2021
+
+# Variables
+
+# environment
+AUTO_NTFY_DONE_UNFOCUSED_ONLY = -b
+# environment
+GDK_BACKEND = x11
+# environment
+LC_ALL = C
+# environment
+NO_AT_BRIDGE = 1
+# environment
+AUTOFEATURE = true autotest
+# environment
+GTK_RC_FILES = /etc/gtk/gtkrc:/home/scio/.gtkrc:/home/scio/.config/gtkrc
+# environment
+VSCODE_IPC_HOOK_EXTHOST = /run/user/1000/vscode-ipc-63e2aa7c-594f-4da1-ae0e-2c88e1e93259.sock
+# environment
+KONSOLE_DBUS_SERVICE = :1.144
+# environment
+LC_NAME = en_IN
+# environment
+VSCODE_CWD = /mnt/Active/Projects/Personal/discord-bot-aleister
+# environment
+WINDOWID = 0
+# environment
+UBUNTU_MENUPROXY = 1
+# environment
+LC_ADDRESS = en_IN
+# default
+MAKE_COMMAND := make
+# automatic
+@D = $(patsubst %/,%,$(dir $@))
+# environment
+KONSOLE_VERSION = 210800
+# environment
+VSCODE_BROWSER_CODE_LOADING = bypassHeatCheck
+# environment
+VSCODE_HANDLES_UNCAUGHT_ERRORS = true
+# default
+.VARIABLES := 
+# environment
+PWD = /mnt/Active/Projects/Personal/discord-bot-aleister
+# automatic
+%D = $(patsubst %/,%,$(dir $%))
+# environment
+LSCOLORS = Gxfxcxdxdxegedabagacad
+# environment
+MAIL = /var/spool/mail/scio
+# environment
+BASH_IT = /home/scio/.bash_it
+# environment
+OLDPWD = /mnt/Active/Projects/Personal/discord-bot-aleister
+# automatic
+^D = $(patsubst %/,%,$(dir $^))
+# environment
+VSCODE_LOG_STACK = false
+# automatic
+%F = $(notdir $%)
+# environment
+VSCODE_CODE_CACHE_PATH = /home/scio/.config/Code/CachedData/3866c3553be8b268c8a7f8c0482c0c0177aa8bfa
+# environment
+XDG_SESSION_PATH = /org/freedesktop/DisplayManager/Session1
+# environment
+SSH_ASKPASS = /usr/bin/ksshaskpass
+# environment
+LANG = C
+# environment
+XAUTHORITY = /home/scio/.Xauthority
+# default
+.LOADED := 
+# default
+.INCLUDE_DIRS = /usr/include /usr/local/include /usr/include
+# environment
+COLORFGBG = 15;0
+# makefile
+MAKEFLAGS = pqrR
+# makefile
+CURDIR := /mnt/Active/Projects/Personal/discord-bot-aleister
+# environment
+VSCODE_PIPE_LOGGING = true
+# environment
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = true
+# automatic
+*D = $(patsubst %/,%,$(dir $*))
+# environment
+PAM_KWALLET5_LOGIN = /run/user/1000/kwallet5.socket
+# environment
+MFLAGS = -pqrR
+# default
+.SHELLFLAGS := -c
+# environment
+QT_LINUX_ACCESSIBILITY_ALWAYS_ON = 1
+# environment
+HISTSIZE = 5000
+# environment
+XDG_CONFIG_DIRS = /home/scio/.config/kdedefaults:/etc/xdg
+# automatic
++D = $(patsubst %/,%,$(dir $+))
+# environment
+SCM_CHECK = true
+# environment
+XCURSOR_THEME = Breeze_Snow
+# environment
+XDG_SESSION_DESKTOP = KDE
+# environment
+VSCODE_CRASH_REPORTER_START_OPTIONS = {"companyName":"Microsoft","productName":"VSCode","submitURL":"appcenter://code?aid=fba07a4d-84bd-4fc8-a125-9640fc8ce171&uid=5e648d30-fc68-4f01-9263-a3ba4fe2cc89&iid=5e648d30-fc68-4f01-9263-a3ba4fe2cc89&sid=5e648d30-fc68-4f01-9263-a3ba4fe2cc89","uploadToServer":true}
+# makefile (from 'makefile', line 1)
+MAKEFILE_LIST := makefile
+# automatic
+@F = $(notdir $@)
+# environment
+VSCODE_VERBOSE_LOGGING = true
+# environment
+VSCODE_PID = 15924
+# environment
+XDG_SESSION_TYPE = x11
+# automatic
+?D = $(patsubst %/,%,$(dir $?))
+# environment
+SESSION_MANAGER = local/unum:@/tmp/.ICE-unix/1184,unix/unum:/tmp/.ICE-unix/1184
+# automatic
+*F = $(notdir $*)
+# environment
+LD_PRELOAD = /usr/${LIB}/libgtk3-nocsd.so.0
+# environment
+QT_QPA_PLATFORMTHEME = gtk2
+# environment
+CHROME_DESKTOP = code-url-handler.desktop
+# environment
+DBUS_SESSION_BUS_ADDRESS = unix:path=/run/user/1000/bus
+# automatic
+<D = $(patsubst %/,%,$(dir $<))
+# environment
+VSCODE_NLS_CONFIG = {"locale":"en-us","availableLanguages":{},"_languagePackSupport":true}
+# environment
+BREAKPAD_DUMP_LOCATION = /home/scio/.config/Code/exthost Crash Reports
+# default
+MAKE_HOST := x86_64-pc-linux-gnu
+# makefile
+SHELL = /bin/sh
+# default
+MAKECMDGOALS := all
+# environment
+DENO_INSTALL = /home/scio/.deno
+# environment
+SHLVL = 2
+# environment
+PROFILEHOME = 
+# environment
+MAKELEVEL := 0
+# default
+MAKE = $(MAKE_COMMAND)
+# environment
+PATH = /home/scio/.deno/bin:/home/scio/.cargo/bin:/home/scio/.local/bin:/home/scio/.cargo/bin:/home/scio/.local/bin:/home/scio/.cargo/bin:/home/scio/.local/bin:/home/scio/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl
+# default
+MAKEFILES := 
+# environment
+LANGUAGE = en_IN
+# environment
+LC_MONETARY = en_IN
+# environment
+MOTD_SHOWN = pam
+# automatic
+^F = $(notdir $^)
+# environment
+LC_TIME = en_IN
+# environment
+BASH_IT_THEME = powerline-newline
+# environment
+PROJECT_PATHS = /home/scio/Active/Projects/Personal/
+# environment
+VSCODE_LOG_NATIVE = false
+# environment
+AUTO_NTFY_DONE_LONGER_THAN = -L10
+# environment
+LC_TELEPHONE = en_IN
+# automatic
+?F = $(notdir $?)
+# environment
+GTK_CSD = 0
+# environment
+KDE_APPLICATIONS_AS_SCOPE = 1
+# environment
+XDG_SEAT = seat0
+# environment
+GTK_IM_MODULE = xim
+# environment
+XDG_CURRENT_DESKTOP = KDE
+# automatic
++F = $(notdir $+)
+# environment
+XDG_SEAT_PATH = /org/freedesktop/DisplayManager/Seat0
+# environment
+DESKTOP_SESSION = plasma
+# environment
+ORIGINAL_XDG_CURRENT_DESKTOP = KDE
+# 'override' directive
+GNUMAKEFLAGS := 
+# environment
+BROWSER = /usr/bin/firefox
+# environment
+GREP_COLOR = 1;33
+# environment
+LOGNAME = scio
+# environment
+OCIO = /home/scio/Archive/Miscellany/Color Profiles/active-profile/config.ocio
+# environment
+XDG_VTNR = 1
+# makefile
+.DEFAULT_GOAL := install
+# environment
+SYSTEMD_EXEC_PID = 674
+# environment
+HISTCONTROL = ignorespace:erasedups
+# environment
+EDITOR = nano
+# environment
+DISPLAY = :0
+# environment
+GTK_MODULES = canberra-gtk-module:appmenu-gtk-module
+# environment
+USER = scio
+# default
+MAKE_VERSION := 4.3
+# environment
+KDE_SESSION_UID = 1000
+# environment
+KONSOLE_DBUS_SESSION = /Sessions/1
+# environment
+LC_MEASUREMENT = en_IN
+# environment
+_ = /usr/bin/make
+# environment
+LC_PAPER = en_IN
+# environment
+XDG_RUNTIME_DIR = /run/user/1000
+# environment
+COLORTERM = truecolor
+# environment
+XDG_SESSION_CLASS = user
+# environment
+VSCODE_AMD_ENTRYPOINT = vs/workbench/services/extensions/node/extensionHostProcess
+# environment
+GTK2_RC_FILES = /etc/gtk-2.0/gtkrc:/home/scio/.gtkrc-2.0:/home/scio/.config/gtkrc-2.0
+# environment
+HOME = /home/scio
+# environment
+ELECTRON_RUN_AS_NODE = 1
+# environment
+VSCODE_IPC_HOOK = /run/user/1000/vscode-954f6732-1.59.1-main.sock
+# environment
+TERM = xterm-256color
+# environment
+XDG_SESSION_ID = 2
+# environment
+XCURSOR_SIZE = 24
+# default
+.RECIPEPREFIX := 
+# automatic
+<F = $(notdir $<)
+# default
+SUFFIXES := 
+# environment
+QT_AUTO_SCREEN_SCALE_FACTOR = 0
+# environment
+VSCODE_CLI = 1
+# environment
+ELECTRON_NO_ATTACH_CONSOLE = 1
+ 
+# environment
+SHELL_SESSION_ID = ede1c99c2eb04b2ca48584d1af17d8c6
+# environment
+KDE_SESSION_VERSION = 5
+# default
+.FEATURES := target-specific order-only second-expansion else-if shortest-stem undefine oneshell nocomment grouped-target extra-prereqs archives jobserver output-sync check-symlink guile load
+# environment
+KDE_FULL_SESSION = true
+# environment
+LC_IDENTIFICATION = en_IN
+# variable set hash-table stats:
+# Load=138/1024=13%, Rehash=0, Collisions=11/168=7%
+
+# Pattern-specific Variable Values
+
+# No pattern-specific variable values.
+
+# Directories
+
+# . (device 2051, inode 125755): 11 files, no impossibilities.
+
+# 11 files, no impossibilities in 1 directories.
+
+# Implicit Rules
+
+# No implicit rules.
+
+# Files
+
+deploy: deploy-command deploy-endpoint
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+deploy-command: typecheck-command
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'makefile', line 21):
+	deno run --allow-read --allow-write --allow-env --allow-net --allow-run ./deploy.ts
+
+# Not a target:
+.DEFAULT:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+dev: install
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'makefile', line 13):
+	deployctl run --watch ./main.ts
+	
+
+typecheck-endpoint: install
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'makefile', line 10):
+	deployctl check ./main.ts
+
+typecheck: typecheck-command typecheck-endpoint
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+all:
+#  Command line target.
+#  Implicit rule search has been done.
+#  File does not exist.
+#  File has not been updated.
+
+run: typecheck
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'makefile', line 16):
+	deployctl run ./main.ts
+
+typecheck-command: install
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'makefile', line 7):
+	deployctl check ./deploy.ts
+
+# Not a target:
+makefile:
+#  Implicit rule search has been done.
+#  Last modified 2021-08-27 16:53:40.0069838
+#  File has been updated.
+#  Successfully updated.
+
+# Not a target:
+typecheck-endpoing:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+install:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'makefile', line 2):
+	deno install --allow-read --allow-write --allow-env --allow-net --allow-run --no-check -f https://deno.land/x/deploy/deployctl.ts
+
+deploy-endpoint: typecheck-endpoing
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'makefile', line 24):
+	deployctl upgrade
+
+# files hash-table stats:
+# Load=14/1024=1%, Rehash=0, Collisions=2/38=5%
+# VPATH Search Paths
+
+# No 'vpath' search paths.
+
+# No general ('VPATH' variable) search path.
+
+# strcache buffers: 1 (0) / strings = 26 / storage = 256 B / avg = 9 B
+# current buf: size = 8162 B / used = 256 B / count = 26 / avg = 9 B
+
+# strcache performance: lookups = 48 / hit rate = 45%
+# hash-table stats:
+# Load=26/8192=0%, Rehash=0, Collisions=0/48=0%
+# Finished Make data base on Fri Aug 27 16:56:44 2021
+
+ 

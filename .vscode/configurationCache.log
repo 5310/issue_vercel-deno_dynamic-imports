@@ -1,0 +1,1 @@
+{"buildTargets":["deploy","deploy-command","deploy-endpoint","dev","install","run","typecheck","typecheck-command","typecheck-endpoint"],"launchTargets":[],"customConfigurationProvider":{"workspaceBrowse":{"browsePath":[],"compilerArgs":[]},"fileIndex":[]}}
